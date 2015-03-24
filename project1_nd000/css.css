@@ -1,0 +1,27 @@
+body{
+	background-color: rgba(217, 221, 64, 0.5);
+}
+.lesson{
+	background-color: rgba(50, 200, 100, 0.5);
+	border: 2px solid;
+    border-radius: 25px;
+}
+h1{
+	text-align: center;
+}
+
+h2{
+	background-color: rgb(50, 200, 100);
+	margin: 20px;
+	text-align: center;
+
+}
+.info{
+	background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 30px
+}
+p{
+	margin-left: 10px;
+	margin-right: 5px;
+}
